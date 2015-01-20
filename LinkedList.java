@@ -62,6 +62,8 @@ class llapp{
 		newlist.insert(25);
 		newlist.insert(77);
 		newlist.insert(99);
+		newlist.display();
 		newlist.nth(2);
+		newlist.display();
 	}
 }
